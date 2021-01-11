@@ -1,2 +1,2 @@
-# cn.clzy.dw
-离线数仓项目
+# E-commerce offline warehouse
+电商离线数仓项目
